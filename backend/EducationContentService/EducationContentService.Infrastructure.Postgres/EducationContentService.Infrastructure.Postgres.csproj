@@ -1,0 +1,5 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\EducationContentService.Core\EducationContentService.Core.csproj" />
+  </ItemGroup>
+</Project>
