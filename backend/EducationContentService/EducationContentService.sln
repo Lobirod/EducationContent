@@ -16,7 +16,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.dockerignore = .dockerignore
 		Directory.Build.props = Directory.Build.props
 		Directory.Packages.props = Directory.Packages.props
+		.editorconfig = .editorconfig
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationContentService.Contracts", "EducationContentService.Contracts\EducationContentService.Contracts.csproj", "{DAA45FB2-ED9C-4F40-B940-7EFC68AAC372}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,5 +43,9 @@ Global
 		{FC51EF9C-29F8-4173-B5A9-C129F6595DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC51EF9C-29F8-4173-B5A9-C129F6595DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC51EF9C-29F8-4173-B5A9-C129F6595DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA45FB2-ED9C-4F40-B940-7EFC68AAC372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA45FB2-ED9C-4F40-B940-7EFC68AAC372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA45FB2-ED9C-4F40-B940-7EFC68AAC372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA45FB2-ED9C-4F40-B940-7EFC68AAC372}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

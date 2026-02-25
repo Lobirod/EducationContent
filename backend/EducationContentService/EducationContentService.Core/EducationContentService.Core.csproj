@@ -7,7 +7,10 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="FluentValidation" />
+      <PackageReference Include="FluentValidation.DependencyInjectionExtensions" />
       <PackageReference Include="Microsoft.AspNetCore.Routing" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" />
       <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" />
     </ItemGroup>
 
@@ -16,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\EducationContentService.Contracts\EducationContentService.Contracts.csproj" />
     <ProjectReference Include="..\EducationContentService.Domain\EducationContentService.Domain.csproj" />
   </ItemGroup>
 

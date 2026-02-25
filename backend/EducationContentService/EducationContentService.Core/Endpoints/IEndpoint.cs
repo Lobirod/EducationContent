@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Routing;
 
-namespace EducationContentService.Web.EndpointsSettings;
+namespace EducationContentService.Core.Endpoints;
 
 public interface IEndpoint
 {
