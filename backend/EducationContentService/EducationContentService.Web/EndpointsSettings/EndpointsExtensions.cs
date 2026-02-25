@@ -1,4 +1,6 @@
 ﻿using System.Reflection;
+using EducationContentService.Core;
+using EducationContentService.Core.Endpoints;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 
 namespace EducationContentService.Web.EndpointsSettings;

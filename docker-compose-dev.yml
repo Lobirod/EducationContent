@@ -22,3 +22,18 @@ services:
       - "8081:80"
       - "5341:5341"
     restart: always
+   postgres:
+    container_name: postgres-education-content
+    image: postgres
+    environment:
+      POSTGRES_DB: education-content
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5436:5432"   
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    restart: always
