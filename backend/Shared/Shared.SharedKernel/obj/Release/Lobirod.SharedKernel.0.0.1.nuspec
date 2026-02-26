@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lobirod.SharedKernel</id>
+    <version>0.0.1</version>
+    <authors>Lobirod</authors>
+    <description>SharedKernel</description>
+    <repository type="git" url="https://github.com/Lobirod/EducationContent" commit="2473803f105071bb62a52444aa777ea4cb99bd0f" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="CSharpFunctionalExtensions" version="3.6.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\HYPERPC\source\repos\EducationContent\backend\Shared\Shared.SharedKernel\bin\Release\net9.0\Shared.SharedKernel.dll" target="lib\net9.0\Shared.SharedKernel.dll" />
+  </files>
+</package>

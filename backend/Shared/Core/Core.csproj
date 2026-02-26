@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Lobirod.Core</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Lobirod</Authors>
+    <Company>Lobirod</Company>
+    <PackageDescription>Core</PackageDescription>
+    <RepositoryUrl>https://github.com/Lobirod/EducationContent</RepositoryUrl>
+  </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentValidation" />
+      <PackageReference Include="FluentValidation.DependencyInjectionExtensions" />
+      <PackageReference Include="Scrutor" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Shared.SharedKernel\Shared.SharedKernel.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">  
+  
+  <ItemGroup>
+    <PackageReference Include="CSharpFunctionalExtensions"/>
+  </ItemGroup>
+
+  <PropertyGroup>
+    <PackageId>Lobirod.SharedKernel</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Lobirod</Authors>
+    <Company>Lobirod</Company>
+    <PackageDescription>SharedKernel</PackageDescription>
+    <RepositoryUrl>https://github.com/Lobirod/EducationContent</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lobirod.Core</id>
+    <version>0.0.1</version>
+    <authors>Lobirod</authors>
+    <description>Core</description>
+    <repository type="git" url="https://github.com/Lobirod/EducationContent" commit="2473803f105071bb62a52444aa777ea4cb99bd0f" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Lobirod.SharedKernel" version="0.0.1" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation" version="12.1.1" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation.DependencyInjectionExtensions" version="12.1.1" exclude="Build,Analyzers" />
+        <dependency id="Scrutor" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\HYPERPC\source\repos\EducationContent\backend\Shared\Core\bin\Release\net9.0\Core.dll" target="lib\net9.0\Core.dll" />
+  </files>
+</package>
