@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "SFVxSkLX09s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HYPERPC\\source\\repos\\EducationContent\\backend\\Shared\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\csharpfunctionalextensions\\3.6.0\\csharpfunctionalextensions.3.6.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.0\\microsoft.extensions.dependencymodel.10.0.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\scrutor\\7.0.0\\scrutor.7.0.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\system.io.pipelines\\10.0.0\\system.io.pipelines.10.0.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\system.text.encodings.web\\10.0.0\\system.text.encodings.web.10.0.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\system.text.json\\10.0.0\\system.text.json.10.0.0.nupkg.sha512",
+    "C:\\Users\\HYPERPC\\.nuget\\packages\\lobirod.sharedkernel\\0.0.1\\lobirod.sharedkernel.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
