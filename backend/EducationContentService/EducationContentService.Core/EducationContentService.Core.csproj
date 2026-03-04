@@ -8,6 +8,7 @@
 
     <ItemGroup>      
       <PackageReference Include="lobirod.core" />
+      <PackageReference Include="lobirod.fileservice.contracts" />
       <PackageReference Include="lobirod.framework" />
       <PackageReference Include="Microsoft.EntityFrameworkCore" />
     </ItemGroup>

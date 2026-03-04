@@ -65,7 +65,7 @@ public sealed class CreateHandler
 
         Description descriptionResult = Description.Create(request.Description).Value;
 
-        var lesson = new Lesson(Guid.NewGuid(), titleResult, descriptionResult);
+        var lesson = new Lesson(Guid.NewGuid(), titleResult, descriptionResult, request.VideoId);
 
         Result<Guid, Error> result = await _lessonsRepository.AddAsync(lesson);
         if (result.IsFailure)

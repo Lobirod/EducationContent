@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lobirod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+2473803f105071bb62a52444aa777ea4cb99bd0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+255fd56a78dd78b11f9f419826850b2feeafe4b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shared.SharedKernel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shared.SharedKernel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]

@@ -1,4 +1,5 @@
 ﻿using EducationContentService.Core.Features.Lessons;
+using FileService.Contracts.HttpCommunication;
 using FluentValidation;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -15,6 +16,8 @@ public static class DependencyInjectionCoreExtensions
        services.AddScoped<UpdateInfoHandler>();
        
        services.AddValidatorsFromAssembly(typeof(DependencyInjectionCoreExtensions).Assembly);
+
+       services.AddFileServiceHttpCommunication(configuration);
        
        return services;
     }

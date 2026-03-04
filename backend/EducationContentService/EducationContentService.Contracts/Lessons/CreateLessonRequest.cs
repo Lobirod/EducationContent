@@ -1,3 +1,3 @@
 ﻿namespace EducationContentService.Contracts.Lessons;
 
-public record CreateLessonRequest(string Title, string Description);
+public record CreateLessonRequest(string Title, string Description, Guid VideoId);

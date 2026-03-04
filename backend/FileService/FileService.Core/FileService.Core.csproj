@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\FileService.Contracts\FileService.Contracts.csproj" />
+    <ProjectReference Include="..\FileService.Domain\FileService.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Lobirod.Core" />
+    <PackageReference Include="Lobirod.Framework" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Hybrid" />
+    <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" />
+  </ItemGroup>
+</Project>

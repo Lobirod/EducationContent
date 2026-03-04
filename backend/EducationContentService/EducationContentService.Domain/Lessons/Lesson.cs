@@ -4,7 +4,7 @@ namespace EducationContentService.Domain.Lessons;
 
 public sealed class Lesson
 {
-    public Lesson(Guid? id, Title title, Description description)
+    public Lesson(Guid? id, Title title, Description description, Guid videoId)
     {
         Id = id ?? Guid.NewGuid();
         Title = title;
@@ -13,6 +13,7 @@ public sealed class Lesson
         UpdatedAt = CreatedAt;
         IsDeleted = false;
         DeletedAt = null;
+        VideoId = videoId;
     }
     
     // EF Core
@@ -25,6 +26,10 @@ public sealed class Lesson
     public Title Title { get; private set; } = null!;
 
     public Description Description { get; private set; } = null!;
+    
+    public Guid? VideoId { get; private set; }
+    
+    public Guid? PreviewId { get; private set; }
 
     public DateTime CreatedAt { get; private set; }
 
@@ -46,5 +51,10 @@ public sealed class Lesson
         Description = description;
         UpdatedAt = DateTime.UtcNow;
     }
-
+    
+    public void UpdateVideoId(Guid? videoId)
+    {
+        VideoId = videoId;
+        UpdatedAt = DateTime.UtcNow;
+    }
 }
