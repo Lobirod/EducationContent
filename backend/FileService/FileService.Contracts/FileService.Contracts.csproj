@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+      <PackageId>Lobirod.FileService.Contracts</PackageId>
+      <Version>0.0.1</Version>
+      <Authors>Lobirod</Authors>
+      <Company>Lobirod</Company>
+      <PackageDescription>Communication FileService project</PackageDescription>
+      <RepositoryUrl>https://github.com/Lobirod/EducationContent</RepositoryUrl>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Lobirod.SharedKernel" />
+      <PackageReference Include="Microsoft.Extensions.Http" />
+      <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" />
+    </ItemGroup>
+
+</Project>

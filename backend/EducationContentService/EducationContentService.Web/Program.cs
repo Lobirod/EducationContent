@@ -35,3 +35,9 @@ finally
 {
     Log.CloseAndFlush();
 }
+
+namespace EducationContentService.Web
+{
+    public partial class Program;
+}
+

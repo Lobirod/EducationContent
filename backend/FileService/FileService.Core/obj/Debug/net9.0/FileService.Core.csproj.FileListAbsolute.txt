@@ -1,0 +1,16 @@
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\bin\Debug\net9.0\FileService.Core.deps.json
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\bin\Debug\net9.0\FileService.Core.dll
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\bin\Debug\net9.0\FileService.Core.pdb
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\bin\Debug\net9.0\FileService.Domain.dll
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\bin\Debug\net9.0\FileService.Domain.pdb
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\obj\Debug\net9.0\FileService.Core.csproj.AssemblyReference.cache
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\obj\Debug\net9.0\FileService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\obj\Debug\net9.0\FileService.Core.AssemblyInfoInputs.cache
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\obj\Debug\net9.0\FileService.Core.AssemblyInfo.cs
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\obj\Debug\net9.0\FileService.Core.csproj.CoreCompileInputs.cache
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\obj\Debug\net9.0\FileService.Core.sourcelink.json
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\obj\Debug\net9.0\FileServ.69D61873.Up2Date
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\obj\Debug\net9.0\FileService.Core.dll
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\obj\Debug\net9.0\refint\FileService.Core.dll
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\obj\Debug\net9.0\FileService.Core.pdb
+C:\Users\HYPERPC\source\repos\EducationContent\backend\FileService\FileService.Core\obj\Debug\net9.0\ref\FileService.Core.dll
