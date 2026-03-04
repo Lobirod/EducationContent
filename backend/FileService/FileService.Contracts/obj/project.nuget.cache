@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KoC5zXA5bcw=",
+  "dgSpecHash": "ZCIiERyLdO4=",
   "success": true,
   "projectFilePath": "C:\\Users\\HYPERPC\\source\\repos\\EducationContent\\backend\\FileService\\FileService.Contracts\\FileService.Contracts.csproj",
   "expectedPackageFiles": [
@@ -22,5 +22,15 @@
     "C:\\Users\\HYPERPC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
     "C:\\Users\\HYPERPC\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1507",
+      "level": "Warning",
+      "message": "There are 2 package sources defined in your configuration. When using central package management, please map your package sources with package source mapping (https://aka.ms/nuget-package-source-mapping) or specify a single package source. The following sources are defined: nuget.org, github",
+      "projectPath": "C:\\Users\\HYPERPC\\source\\repos\\EducationContent\\backend\\FileService\\FileService.Contracts\\FileService.Contracts.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\HYPERPC\\source\\repos\\EducationContent\\backend\\FileService\\FileService.Contracts\\FileService.Contracts.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
