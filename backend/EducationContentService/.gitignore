@@ -483,6 +483,4 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 
-# Игнорируем каталоги сборки
-bin/
 
